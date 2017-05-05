@@ -1,4 +1,112 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:-1,Tvr 1 
+http://151.80.35.29:25461/live/2000/2000/1501.ts
+#EXTINF:-1,Tvr 2 
+http://151.80.35.29:25461/live/2000/2000/1502.ts
+#EXTINF:-1,Tv 1000 
+http://151.80.35.29:25461/live/2000/2000/1503.ts
+#EXTINF:-1,National Geographic 
+http://151.80.35.29:25461/live/2000/2000/1511.ts
+#EXTINF:-1,National 
+http://151.80.35.29:25461/live/2000/2000/1510.ts
+#EXTINF:-1,Minimax 
+http://151.80.35.29:25461/live/2000/2000/1512.ts
+#EXTINF:-1,Megamax 
+http://151.80.35.29:25461/live/2000/2000/1513.ts
+#EXTINF:-1,Look 
+http://151.80.35.29:25461/live/2000/2000/1514.ts
+#EXTINF:-1,Kiss 
+http://151.80.35.29:25461/live/2000/2000/1515.ts
+#EXTINF:-1,Kanal D 
+http://151.80.35.29:25461/live/2000/2000/1516.ts
+#EXTINF:-1,History HD 
+http://151.80.35.29:25461/live/2000/2000/1517.ts
+#EXTINF:-1,Hbo 3 
+http://151.80.35.29:25461/live/2000/2000/1519.ts
+#EXTINF:-1,Hbo 2 
+http://151.80.35.29:25461/live/2000/2000/1518.ts
+#EXTINF:-1,Disney Junior 
+http://151.80.35.29:25461/live/2000/2000/1520.ts
+#EXTINF:-1,Digi World 
+http://151.80.35.29:25461/live/2000/2000/1525.ts
+#EXTINF:-1,Digi Life 
+http://151.80.35.29:25461/live/2000/2000/1523.ts
+#EXTINF:-1,Digi Film 
+http://151.80.35.29:25461/live/2000/2000/1522.ts
+#EXTINF:-1,Digi 24 
+http://151.80.35.29:25461/live/2000/2000/1524.ts
+#EXTINF:-1,B1 
+http://151.80.35.29:25461/live/2000/2000/1498.ts
+#EXTINF:-1,Antena Stars 
+http://151.80.35.29:25461/live/2000/2000/1500.ts
+#EXTINF:-1,Antena 1 
+http://151.80.35.29:25461/live/2000/2000/1499.ts
+#EXTINF:-1,Tvr International 
+http://151.80.35.29:25461/live/2000/2000/935.ts
+#EXTINF:-1,1 Music Channel 
+http://151.80.35.29:25461/live/2000/2000/2502.ts
+#EXTINF:-1,Viasat History 
+http://151.80.35.29:25461/live/2000/2000/2507.ts
+#EXTINF:-1,Viasat Nature 
+http://151.80.35.29:25461/live/2000/2000/2508.ts
+#EXTINF:-1,Acasa TV 
+http://151.80.35.29:25461/live/2000/2000/2485.ts
+#EXTINF:-1,Agro Tv 
+http://151.80.35.29:25461/live/2000/2000/2501.ts
+#EXTINF:-1,Antena 3 
+http://151.80.35.29:25461/live/2000/2000/2482.ts
+#EXTINF:-1,AXN Romania 
+http://151.80.35.29:25461/live/2000/2000/2492.ts
+#EXTINF:-1,AXN White 
+http://151.80.35.29:25461/live/2000/2000/2493.ts
+#EXTINF:-1,Boomerang 
+http://151.80.35.29:25461/live/2000/2000/2486.ts
+#EXTINF:-1,Cinemax Ro 
+http://151.80.35.29:25461/live/2000/2000/2488.ts
+#EXTINF:-1,Cinemax 2 
+http://151.80.35.29:25461/live/2000/2000/2489.ts
+#EXTINF:-1,Crime & Investigation 
+http://151.80.35.29:25461/live/2000/2000/2517.ts
+#EXTINF:-1,DIGI 24 Craiova 
+http://151.80.35.29:25461/live/2000/2000/2500.ts
+#EXTINF:-1,DIGI 24 Galati 
+http://151.80.35.29:25461/live/2000/2000/2499.ts
+#EXTINF:-1,Digi Animal World 
+http://151.80.35.29:25461/live/2000/2000/2504.ts
+#EXTINF:-1,Digi Sport 2 
+http://151.80.35.29:25461/live/2000/2000/2514.ts
+#EXTINF:-1,Digi Sport 3 
+http://151.80.35.29:25461/live/2000/2000/2515.ts
+#EXTINF:-1,Digi Sport 4 
+http://151.80.35.29:25461/live/2000/2000/2516.ts
+#EXTINF:-1,Etno Tv 
+http://151.80.35.29:25461/live/2000/2000/2498.ts
+#EXTINF:-1,Eurosport 
+http://151.80.35.29:25461/live/2000/2000/2511.ts
+#EXTINF:-1,Eurosport 2 
+http://151.80.35.29:25461/live/2000/2000/2512.ts
+#EXTINF:-1,Favorit Tv 
+http://151.80.35.29:25461/live/2000/2000/2509.ts
+#EXTINF:-1,Fishing & Hunting 
+http://151.80.35.29:25461/live/2000/2000/2505.ts
+#EXTINF:-1,Happy Channel 
+http://151.80.35.29:25461/live/2000/2000/2483.ts
+#EXTINF:-1,HBO Romania 
+http://151.80.35.29:25461/live/2000/2000/2490.ts
+#EXTINF:-1,Look Plus 
+http://151.80.35.29:25461/live/2000/2000/2513.ts
+#EXTINF:-1,Music Channe hu 
+http://151.80.35.29:25461/live/2000/2000/2503.ts
+#EXTINF:-1,Nat Geo Wild 
+http://151.80.35.29:25461/live/2000/2000/2506.ts
+#EXTINF:-1,TNT 
+http://151.80.35.29:25461/live/2000/2000/2497.ts
+#EXTINF:-1,Trinitas 
+http://151.80.35.29:25461/live/2000/2000/2496.ts
+#EXTINF:-1,TV5 MONDE 
+http://151.80.35.29:25461/live/2000/2000/2495.ts
+#EXTINF:-1,U TV 
+http://151.80.35.29:25461/live/2000/2000/2494.ts
 #EXTINF:-1,PRIMA TV
 http://89.38.8.130:39413
 #EXTINF:-1,PRO CINEMA
